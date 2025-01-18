@@ -1,0 +1,438 @@
+{
+  "cookies": [
+    {
+      "name": "CookieConsentPolicy",
+      "value": "0:0",
+      "domain": "login.salesforce.com",
+      "path": "/",
+      "expires": 1768750821.272412,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LSKey-c$CookieConsentPolicy",
+      "value": "0:0",
+      "domain": "login.salesforce.com",
+      "path": "/",
+      "expires": 1768750821.272772,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "BrowserId",
+      "value": "hqJA3NWyEe-N5I2PSHTe5g",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1768750821.272813,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "session",
+      "value": "1737214822185",
+      "domain": "login.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gtm_session_start",
+      "value": "1737214823125",
+      "domain": "c.salesforce.com",
+      "path": "/",
+      "expires": 1737216623,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sfdcConsent",
+      "value": "1,3,4",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1768750823,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Sat+Jan+18+2025+21%3A10%3A23+GMT%2B0530+(India+Standard+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ab2798c-de31-4c8a-a5ac-3506afa651ed&interactionCount=0&landingPath=https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html&groups=1%3A1%2C3%3A1%2C4%3A1",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1768750823,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "optimizelyEndUserId",
+      "value": "oeu1737214823419r0.012149720511789308",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1752766823,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "optimizelySession",
+      "value": "1737214823432",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1752766823,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "webact",
+      "value": "%7B%22l_vdays%22%3A-1%2C%22l_visit%22%3A1737214822495%2C%22session%22%3A1737214822495%2C%22l_dtype%22%3A%22%22%2C%22l_page%22%3A%22SFDC%3Aus%3Alogin-messages%3Apromos%22%2C%22counter%22%3A0%2C%22pv%22%3A1%2C%22f_visit%22%3A1737214822495%2C%22seg%22%3A%22non-customer%3Aus%22%7D",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1768750823,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "c22",
+      "value": "undefined",
+      "domain": ".c.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "c40",
+      "value": "undefined",
+      "domain": ".c.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "inst",
+      "value": "APP_WU",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rememberUn",
+      "value": "false",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1742398824.13985,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "com.salesforce.LocaleInfo",
+      "value": "in",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1742398824.139932,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oinfo",
+      "value": "c3RhdHVzPUZSRUUmdHlwZT0zJm9pZD0wMERXVTAwMDAwOXhQazU=",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1742398824.139968,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CookieConsentPolicy",
+      "value": "0:1",
+      "domain": "testcompany354-dev-ed.develop.my.salesforce.com",
+      "path": "/",
+      "expires": 1768750824.555364,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "LSKey-c$CookieConsentPolicy",
+      "value": "0:1",
+      "domain": "testcompany354-dev-ed.develop.my.salesforce.com",
+      "path": "/",
+      "expires": 1768750824.555597,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sfdc_lv2",
+      "value": "KxG83HLMBo9Io2Z12pQLWQiq+UKhFbz3peAPSfjPV9i2w+QhOqhnXD6utMNkTY9FA=",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1768750824.555649,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "disco",
+      "value": "WU:00DWU000009xPk5:005WU000006CIyb:3",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "autocomplete",
+      "value": "1",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1742398824.555744,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid",
+      "value": "00DWU000009xPk5!AQEAQD0PBCC_PURmhCZ9nValSeNYG8HFcWdIwwZMoV5kXg1UVA0Z.8c0n4CdhTCN_qD.jm1qJqMPDetjXSslryftTA.RrAGp",
+      "domain": "testcompany354-dev-ed.develop.my.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid_Client",
+      "value": "U000006CIybU000009xPk5",
+      "domain": "testcompany354-dev-ed.develop.my.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "clientSrc",
+      "value": "49.206.15.85",
+      "domain": "testcompany354-dev-ed.develop.my.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "oid",
+      "value": "00DWU000009xPk5",
+      "domain": "testcompany354-dev-ed.develop.my.salesforce.com",
+      "path": "/",
+      "expires": 1768750824.556039,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.116293729.1737214825",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1771774824.693373,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_S6WMKB0ZK3",
+      "value": "GS1.1.1737214823.1.0.1737214823.0.0.0",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1771774824.684076,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_ESNS60PH6F",
+      "value": "GS1.1.1737214823.1.0.1737214823.0.0.0",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1771774824.692642,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CookieConsentPolicy",
+      "value": "0:1",
+      "domain": "testcompany354-dev-ed.develop.file.force.com",
+      "path": "/",
+      "expires": 1768750825.008552,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "LSKey-c$CookieConsentPolicy",
+      "value": "0:1",
+      "domain": "testcompany354-dev-ed.develop.file.force.com",
+      "path": "/",
+      "expires": 1768750825.008609,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "BrowserId",
+      "value": "iMeSCtWyEe-ClrtU6mzA8g",
+      "domain": ".force.com",
+      "path": "/",
+      "expires": 1768750825.008625,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid",
+      "value": "00DWU000009xPk5!AQEAQGQDPAodmwh2VzRDJbH_wqu2ThZmFCUmUarv97b64hlsUt3req2W8pOeG01AAE4ZpL10fVkLxAOHyYKX2DLwa6NHlqPN",
+      "domain": "testcompany354-dev-ed.develop.file.force.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid_Client",
+      "value": "U000006CIybU000009xPk5",
+      "domain": "testcompany354-dev-ed.develop.file.force.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "clientSrc",
+      "value": "49.206.15.85",
+      "domain": "testcompany354-dev-ed.develop.file.force.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "inst",
+      "value": "APP_WU",
+      "domain": ".force.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://c.salesforce.com",
+      "localStorage": [
+        {
+          "name": "optimizely_data$$oeu1737214823419r0.012149720511789308$$22444972181$$visitor_profile",
+          "value": "{\"profile\":{\"visitorId\":\"oeu1737214823419r0.012149720511789308\",\"customBehavior\":{},\"first_session\":true,\"browserId\":\"gc\",\"browserVersion\":\"131.0.6778.33\",\"device\":\"desktop\",\"device_type\":\"desktop_laptop\",\"referrer\":\"https://login.salesforce.com/\",\"source_type\":\"referral\"},\"metadata\":{\"visitorId\":{},\"events\":{},\"customBehavior\":{},\"first_session\":{},\"browserId\":{},\"browserVersion\":{},\"device\":{},\"device_type\":{},\"referrer\":{},\"source_type\":{}}}"
+        },
+        {
+          "name": "optimizely_data$$oeu1737214823419r0.012149720511789308$$22444972181$$layer_map",
+          "value": "{}"
+        },
+        {
+          "name": "optimizely_data$$oeu1737214823419r0.012149720511789308$$22444972181$$variation_map",
+          "value": "{\"6747697810505728\":{\"4509092136353792\":\"6397359576317952\"}}"
+        },
+        {
+          "name": "optimizely_data$$oeu1737214823419r0.012149720511789308$$22444972181$$tracker_optimizely",
+          "value": "{}"
+        },
+        {
+          "name": "optimizely_data$$pending_events",
+          "value": "{}"
+        },
+        {
+          "name": "optimizely_data$$oeu1737214823419r0.012149720511789308$$22444972181$$layer_states",
+          "value": "[{\"layerId\":\"6747697810505728\",\"revision\":\"2150\",\"decisionTicket\":{\"bucketingId\":\"oeu1737214823419r0.012149720511789308\",\"globalHoldback\":0,\"audienceIds\":[],\"activationId\":\"1737214823419\"},\"decision\":{\"layerId\":\"6747697810505728\",\"experimentId\":\"4509092136353792\",\"variationId\":\"6397359576317952\",\"isLayerHoldback\":false},\"decisionActivationId\":\"1737214823419\",\"decisionTimestamp\":1737214823430,\"decisionEventId\":\"3eec8ca0-3a94-4f0b-971c-d45ebdd2e689\"}]"
+        },
+        {
+          "name": "optimizely_data$$oeu1737214823419r0.012149720511789308$$22444972181$$contextual_mab",
+          "value": "{}"
+        },
+        {
+          "name": "optimizely_data$$oeu1737214823419r0.012149720511789308$$22444972181$$event_queue",
+          "value": "[{\"eb\":{\"n\":\"22444972181_salesforcecom_sitewide\",\"y\":\"pageview\",\"c\":\"other\"},\"h\":\"ef333721\",\"tb\":1737214823432,\"ts\":[{\"d\":0,\"i\":0}]}]"
+        },
+        {
+          "name": "optimizely_data$$oeu1737214823419r0.012149720511789308$$22444972181$$session_state",
+          "value": "{\"lastSessionTimestamp\":1737214823422,\"sessionId\":\"71fb8bbd-346c-41eb-9462-e4de20d979ef\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://a10681260716.cdn.optimizely.com",
+      "localStorage": [
+        {
+          "name": "https://c.salesforce.com_oeu1737214823419r0.012149720511789308$$22444972181$$variation_map",
+          "value": "{\"6747697810505728\":{\"4509092136353792\":\"6397359576317952\"}}"
+        },
+        {
+          "name": "https://c.salesforce.com_oeu1737214823419r0.012149720511789308$$22444972181$$layer_states",
+          "value": "[{\"layerId\":\"6747697810505728\",\"revision\":\"2150\",\"decisionTicket\":{\"bucketingId\":\"oeu1737214823419r0.012149720511789308\",\"globalHoldback\":0,\"audienceIds\":[],\"activationId\":\"1737214823419\"},\"decision\":{\"layerId\":\"6747697810505728\",\"experimentId\":\"4509092136353792\",\"variationId\":\"6397359576317952\",\"isLayerHoldback\":false},\"decisionActivationId\":\"1737214823419\",\"decisionTimestamp\":1737214823430,\"decisionEventId\":\"3eec8ca0-3a94-4f0b-971c-d45ebdd2e689\"}]"
+        },
+        {
+          "name": "https://c.salesforce.com_oeu1737214823419r0.012149720511789308$$22444972181$$session_state",
+          "value": "{\"lastSessionTimestamp\":1737214823422,\"sessionId\":\"71fb8bbd-346c-41eb-9462-e4de20d979ef\"}"
+        },
+        {
+          "name": "https://c.salesforce.com_oeu1737214823419r0.012149720511789308$$22444972181$$event_queue",
+          "value": "[{\"eb\":{\"n\":\"22444972181_salesforcecom_sitewide\",\"y\":\"pageview\",\"c\":\"other\"},\"h\":\"ef333721\",\"tb\":1737214823432,\"ts\":[{\"d\":0,\"i\":0}]}]"
+        },
+        {
+          "name": "https://c.salesforce.com_oeu1737214823419r0.012149720511789308$$22444972181$$tracker_optimizely",
+          "value": "{}"
+        },
+        {
+          "name": "https://c.salesforce.com_pending_events",
+          "value": "{}"
+        },
+        {
+          "name": "https://c.salesforce.com_oeu1737214823419r0.012149720511789308$$22444972181$$layer_map",
+          "value": "{}"
+        },
+        {
+          "name": "https://c.salesforce.com_oeu1737214823419r0.012149720511789308$$22444972181$$contextual_mab",
+          "value": "{}"
+        },
+        {
+          "name": "https://c.salesforce.com_oeu1737214823419r0.012149720511789308$$22444972181$$visitor_profile",
+          "value": "{\"profile\":{\"visitorId\":\"oeu1737214823419r0.012149720511789308\",\"customBehavior\":{},\"first_session\":true,\"browserId\":\"gc\",\"browserVersion\":\"131.0.6778.33\",\"device\":\"desktop\",\"device_type\":\"desktop_laptop\",\"referrer\":\"https://login.salesforce.com/\",\"source_type\":\"referral\"},\"metadata\":{\"visitorId\":{},\"events\":{},\"customBehavior\":{},\"first_session\":{},\"browserId\":{},\"browserVersion\":{},\"device\":{},\"device_type\":{},\"referrer\":{},\"source_type\":{}}}"
+        }
+      ]
+    }
+  ]
+}
