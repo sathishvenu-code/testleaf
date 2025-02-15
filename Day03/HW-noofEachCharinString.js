@@ -1,12 +1,5 @@
-let inputStr = "sathish kumar";
+function eachNoOfCharsInStr(string1) {
+    
 
-let eachChar = inputStr.split("");
-console.log(eachChar);
-
-eachChar.forEach(char=>{
-
-    if (char==) {
-        
-    }
-
-})
+    
+}
